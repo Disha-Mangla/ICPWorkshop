@@ -1,1 +1,1 @@
-# My New Project
+# ICP Workshop Project
